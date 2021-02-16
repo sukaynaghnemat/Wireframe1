@@ -10,7 +10,7 @@ nav ul li{
     display: inline;
     float: right;
     margin-right: 50px;
-    padding: 10px;
+    
 
 }
 nav ul li a{
@@ -21,14 +21,14 @@ nav ul li a{
 main img{
 
     position:relative;
-     left: 200px;
+     left: 300px;
      margin-top: 10px;
     
 }
 
 div img{
     position: relative;
-    left: 180px;
+    left: 280px;
     margin-top: 30px;
     
     padding: 15px;
@@ -36,7 +36,7 @@ div img{
 }
 section img{
     float: left;
-    left:195px;
+    left:295px;
     bottom: 10px;
 }
 
