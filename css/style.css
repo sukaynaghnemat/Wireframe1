@@ -1,0 +1,86 @@
+
+
+nav ul {
+        /* position: absolute; */
+        display: inline;
+        text-decoration: none;
+}
+
+nav ul li{
+    display: inline;
+    float: right;
+    margin-right: 5px;
+    padding: 20px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    
+}
+
+main img{
+
+    position:relative;
+     left: 100px;
+     margin-top: 10px;
+    
+}
+
+div img{
+    position: relative;
+    left: 80px;
+    margin-top: 30px;
+    
+    padding: 15px;
+     right: 100px; 
+}
+section img{
+    float: left;
+    left:95px;
+    bottom: 10px;
+}
+
+ section p{
+     position: sticky;
+     float: right;
+     max-width: 470px;
+     margin-top: 80px;
+     margin-right: 100px;
+     overflow: scroll;
+     
+     
+
+
+
+ } 
+
+
+
+a {
+    text-decoration: none;
+
+}
+
+    section button{
+        position: absolute;
+        float: right;
+        margin-top: 350px;
+        margin-left: 350px;
+        height: 50px;
+        width: 200px;
+        border-radius: 20px;
+    }
+    section button:hover{
+        background-color: turquoise;
+    }
+
+
+
+
+
+footer{
+    clear:both;
+    background-color: black;
+    min-height: 100px;
+
+}
